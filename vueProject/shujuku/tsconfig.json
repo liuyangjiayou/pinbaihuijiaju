@@ -1,0 +1,204 @@
+{
+  "imgs": {
+    "logoNav" : "themesmobile/68ecshopcom_mobile/images/LOGO.png",
+    "inputIcon" : "themesmobile/68ecshopcom_mobile/images/icosousuo.png",
+    "slider" : [
+      {"sliderImg" : "data/afficheimg/1501124228567864536.jpg"},
+      {"sliderImg" : "data/afficheimg/1502178248257343435.jpg"},
+      {"sliderImg" : "data/afficheimg/1501124242087408289.jpg"},
+      {"sliderImg" : "data/afficheimg/1501124242087408289.jpg"}
+    ],
+    "navImg" : [
+      "images/201704/1491531405669423268.png",
+      "images/201704/1491531573032296539.png",
+      "images/201704/1491531589157373693.png",
+      "images/201704/1491532270034723330.png"
+    ],
+    "listImg" : {
+      "hots" : [
+        "data/afficheimg/1492673529775537519.jpg",
+        "data/afficheimg/1492678198110140000.jpg",
+        "data/afficheimg/1492673631022184281.jpg",
+        "data/afficheimg/1492673652331195046.jpg",
+        "data/afficheimg/1492673605245966223.jpg"
+      ],
+      "news" : [
+        "data/afficheimg/1492678150179786350.jpg",
+        "data/afficheimg/1492673906877660887.jpg",
+        "data/afficheimg/1492674004326382811.jpg",
+        "data/afficheimg/1492673990352217866.jpg",
+        "data/afficheimg/1492673961937318522.jpg"
+      ],
+      "timeLimit" : [
+        "data/afficheimg/1495500343913434000.jpg",
+        "data/afficheimg/1495500038397432353.jpg",
+        "data/afficheimg/1495443183135948640.jpg",
+        "data/afficheimg/1495444973999682013.jpg",
+        "data/afficheimg/1495444973999682013.jpg"
+      ],
+      "flat" : [
+        "data/afficheimg/1495444973999682013.jpg",
+        "data/afficheimg/1492679756706430613.jpg",
+        "data/afficheimg/1492674623029255803.jpg",
+        "data/afficheimg/1492674603172305841.jpg",
+        "data/afficheimg/1492674583617324731.jpg"
+      ]
+    },
+    "youLike" : [
+      "https://pinbaihui2017.oss-cn-beijing.aliyuncs.com/./../goods/15023332476a000bfeb26b08c8f15cc6fa5710d7e6.jpg?x-oss-process=image/resize,m_lfit,h_188,limit_0/auto-orient,0/quality,q_90",
+      "https://pinbaihui2017.oss-cn-beijing.aliyuncs.com/./../goods/1495351518d03ce3af1dd89affcfeec9fb50a08ae1.jpg?x-oss-process=image/resize,m_lfit,h_188,limit_0/auto-orient,0/quality,q_90",
+      "https://pinbaihui2017.oss-cn-beijing.aliyuncs.com/./../goods/14951785448b86886ac443e9edd4a0a70311d532ba.jpg?x-oss-process=image/resize,m_lfit,h_188,limit_0/auto-orient,0/quality,q_90",
+      "https://pinbaihui2017.oss-cn-beijing.aliyuncs.com/./../goods/14951787868b86886ac443e9edd4a0a70311d532ba.jpg?x-oss-process=image/resize,m_lfit,h_188,limit_0/auto-orient,0/quality,q_90"
+    ],
+    "listImgArray" : [
+      {
+        "url" : "https://pinbaihui2017.oss-cn-beijing.aliyuncs.com/./../goods/1495182565885a50edeb31c9310cd62eb1b5f46adf.jpg?x-oss-process=image/resize,m_lfit,h_188,limit_0/auto-orient,0/quality,q_90",
+        "product":"￥800"
+      },
+      {
+        "url" : "https://pinbaihui2017.oss-cn-beijing.aliyuncs.com/./../goods/1498098494032b2cc936860b03048302d991c3498f.jpg?x-oss-process=image/resize,m_lfit,h_188,limit_0/auto-orient,0/quality,q_90",
+        "product":"￥800"
+      },
+      {
+        "url" : "https://pinbaihui2017.oss-cn-beijing.aliyuncs.com/./../goods/1492505461a427bd986f6dee9fc8e8cd0378b8a230.jpg?x-oss-process=image/resize,m_lfit,h_188,limit_0/auto-orient,0/quality,q_90",
+        "product":"￥800"
+      },
+      {
+        "url" : "https://pinbaihui2017.oss-cn-beijing.aliyuncs.com/./../goods/14925058293329de6ee07b2d741a9a3733e940cfed.jpg?x-oss-process=image/resize,m_lfit,h_188,limit_0/auto-orient,0/quality,q_90",
+        "product":"￥800"
+      },
+      {
+        "url" : "https://pinbaihui2017.oss-cn-beijing.aliyuncs.com/./../goods/1493978648f3ccdd27d2000e3f9255a7e3e2c48800.jpg?x-oss-process=image/resize,m_lfit,h_188,limit_0/auto-orient,0/quality,q_90",
+        "product":"￥800"
+      },
+      {
+        "url" : "https://pinbaihui2017.oss-cn-beijing.aliyuncs.com/./../goods/1493978757f3ccdd27d2000e3f9255a7e3e2c48800.jpg?x-oss-process=image/resize,m_lfit,h_188,limit_0/auto-orient,0/quality,q_90",
+        "product":"￥800"
+      },
+      {
+        "url" : "https://pinbaihui2017.oss-cn-beijing.aliyuncs.com/./../goods/1494143288a3dcd12ca0eb4e00ff21d0156e26e335.jpg?x-oss-process=image/resize,m_lfit,h_188,limit_0/auto-orient,0/quality,q_90",
+        "product":"￥800"
+      },
+      {
+        "url" : "https://pinbaihui2017.oss-cn-beijing.aliyuncs.com/./../goods/1494144429a3dcd12ca0eb4e00ff21d0156e26e335.jpg?x-oss-process=image/resize,m_lfit,h_188,limit_0/auto-orient,0/quality,q_90",
+        "product":"￥800"
+      },
+      {
+        "url" : "https://pinbaihui2017.oss-cn-beijing.aliyuncs.com/./../goods/1492913896df8ef80ab20fa8deaa643b0b530b32ef.jpg?x-oss-process=image/resize,m_lfit,h_188,limit_0/auto-orient,0/quality,q_90",
+        "product":"￥800"
+      },
+      {
+        "url" : "https://pinbaihui2017.oss-cn-beijing.aliyuncs.com/./../goods/149291360424a4702c712fe0d0ffe5d028cc7c71cb.jpg?x-oss-process=image/resize,m_lfit,h_188,limit_0/auto-orient,0/quality,q_90",
+        "product":"￥800"
+      },
+      {
+        "url" : "https://pinbaihui2017.oss-cn-beijing.aliyuncs.com/./../goods/1494224290a3dcd12ca0eb4e00ff21d0156e26e335.jpg?x-oss-process=image/resize,m_lfit,h_188,limit_0/auto-orient,0/quality,q_90",
+        "product":"￥800"
+      },
+      {
+        "url" : "https://pinbaihui2017.oss-cn-beijing.aliyuncs.com/./../goods/14942246846391ace427ade714b70fb966024ae804.jpg?x-oss-process=image/resize,m_lfit,h_188,limit_0/auto-orient,0/quality,q_90",
+        "product":"￥800"
+      },
+      {
+        "url" : "https://pinbaihui2017.oss-cn-beijing.aliyuncs.com/./../goods/1501051423aa9963951300b51d1d08fef423093a0b.jpg?x-oss-process=image/resize,m_lfit,h_188,limit_0/auto-orient,0/quality,q_90",
+        "product":"￥800"
+      },
+      {
+        "url" : "https://pinbaihui2017.oss-cn-beijing.aliyuncs.com/./../goods/1501051253ce9a7cd7a771f7e9deefd161f8202321.jpg?x-oss-process=image/resize,m_lfit,h_188,limit_0/auto-orient,0/quality,q_90",
+        "product":"￥800"
+      },
+      {
+        "url" : "https://pinbaihui2017.oss-cn-beijing.aliyuncs.com/./../goods/1501054587d938bab2cb1e9adbfa383f3938412fab.jpg?x-oss-process=image/resize,m_lfit,h_188,limit_0/auto-orient,0/quality,q_90",
+        "product":"￥800"
+      },
+      {
+        "url" : "https://pinbaihui2017.oss-cn-beijing.aliyuncs.com/./../goods/1495011697e1a5ba81df7514129bfa901216b7cf84.jpg?x-oss-process=image/resize,m_lfit,h_188,limit_0/auto-orient,0/quality,q_90",
+        "product":"￥800"
+      },
+      {
+        "url" : "https://pinbaihui2017.oss-cn-beijing.aliyuncs.com/./../goods/1501054986d938bab2cb1e9adbfa383f3938412fab.jpg?x-oss-process=image/resize,m_lfit,h_188,limit_0/auto-orient,0/quality,q_90",
+        "product":"￥800"
+      },
+      {
+        "url" : "https://pinbaihui2017.oss-cn-beijing.aliyuncs.com/./../goods/1495076362fd7333a0a461ee94c7d3a744bc2f2325.jpg?x-oss-process=image/resize,m_lfit,h_188,limit_0/auto-orient,0/quality,q_90",
+        "product":"￥800"
+      },
+      {
+        "url" : "https://pinbaihui2017.oss-cn-beijing.aliyuncs.com/./../goods/14937836712d1c96e0d669cbd0d82a27b6ef9594a0.jpg?x-oss-process=image/resize,m_lfit,h_188,limit_0/auto-orient,0/quality,q_90",
+        "product":"￥800"
+      },
+      {
+        "url" : "https://pinbaihui2017.oss-cn-beijing.aliyuncs.com/./../goods/14937910792d1c96e0d669cbd0d82a27b6ef9594a0.jpg?x-oss-process=image/resize,m_lfit,h_188,limit_0/auto-orient,0/quality,q_90",
+        "product":"￥800"
+      },
+      {
+        "url" : "https://pinbaihui2017.oss-cn-beijing.aliyuncs.com/./../goods/1502502503f99687dd719c4e8bc6a39e946c3d9ef7.jpg?x-oss-process=image/resize,m_lfit,h_188,limit_0/auto-orient,0/quality,q_90",
+        "product":"￥800"
+      },
+      {
+        "url" : "https://pinbaihui2017.oss-cn-beijing.aliyuncs.com/./../goods/15025034654efdd2f969559e8b1c92e99f32ded48e.jpg?x-oss-process=image/resize,m_lfit,h_188,limit_0/auto-orient,0/quality,q_90",
+        "product":"￥800"
+      },
+      {
+        "url" : "https://pinbaihui2017.oss-cn-beijing.aliyuncs.com/./../goods/1502502885f99687dd719c4e8bc6a39e946c3d9ef7.jpg?x-oss-process=image/resize,m_lfit,h_188,limit_0/auto-orient,0/quality,q_90",
+        "product":"￥800"
+      },
+      {
+        "url" : "https://pinbaihui2017.oss-cn-beijing.aliyuncs.com/./../goods/1492915424f3ccdd27d2000e3f9255a7e3e2c48800.jpg?x-oss-process=image/resize,m_lfit,h_188,limit_0/auto-orient,0/quality,q_90",
+        "product":"￥800"
+      },
+      {
+        "url" : "https://pinbaihui2017.oss-cn-beijing.aliyuncs.com/./../goods/14929098558ef2af04046d4701b3653c91d2e76fed.jpg?x-oss-process=image/resize,m_lfit,h_188,limit_0/auto-orient,0/quality,q_90",
+        "product":"￥800"
+      },
+      {
+        "url" : "https://pinbaihui2017.oss-cn-beijing.aliyuncs.com/./../goods/1492915520f3ccdd27d2000e3f9255a7e3e2c48800.jpg?x-oss-process=image/resize,m_lfit,h_188,limit_0/auto-orient,0/quality,q_90",
+        "product":"￥800"
+      },
+      {
+        "url" : "https://pinbaihui2017.oss-cn-beijing.aliyuncs.com/./../goods/1501054986d938bab2cb1e9adbfa383f3938412fab.jpg?x-oss-process=image/resize,m_lfit,h_188,limit_0/auto-orient,0/quality,q_90",
+        "product":"￥800"
+      },
+      {
+        "url" : "https://pinbaihui2017.oss-cn-beijing.aliyuncs.com/./../goods/1501054986d938bab2cb1e9adbfa383f3938412fab.jpg?x-oss-process=image/resize,m_lfit,h_188,limit_0/auto-orient,0/quality,q_90",
+        "product":"￥800"
+      },
+      {
+        "url" : "https://pinbaihui2017.oss-cn-beijing.aliyuncs.com/./../goods/1495076362fd7333a0a461ee94c7d3a744bc2f2325.jpg?x-oss-process=image/resize,m_lfit,h_188,limit_0/auto-orient,0/quality,q_90",
+        "product":"￥800"
+      },
+      {
+        "url" : "https://pinbaihui2017.oss-cn-beijing.aliyuncs.com/./../goods/14937836712d1c96e0d669cbd0d82a27b6ef9594a0.jpg?x-oss-process=image/resize,m_lfit,h_188,limit_0/auto-orient,0/quality,q_90",
+        "product":"￥800"
+      },
+      {
+        "url" : "https://pinbaihui2017.oss-cn-beijing.aliyuncs.com/./../goods/14937910792d1c96e0d669cbd0d82a27b6ef9594a0.jpg?x-oss-process=image/resize,m_lfit,h_188,limit_0/auto-orient,0/quality,q_90",
+        "product":"￥800"
+      },
+      {
+        "url" : "https://pinbaihui2017.oss-cn-beijing.aliyuncs.com/./../goods/1502502503f99687dd719c4e8bc6a39e946c3d9ef7.jpg?x-oss-process=image/resize,m_lfit,h_188,limit_0/auto-orient,0/quality,q_90",
+        "product":"￥800"
+      },
+      {
+        "url" : "https://pinbaihui2017.oss-cn-beijing.aliyuncs.com/./../goods/15025034654efdd2f969559e8b1c92e99f32ded48e.jpg?x-oss-process=image/resize,m_lfit,h_188,limit_0/auto-orient,0/quality,q_90",
+        "product":"￥800"
+      },
+      {
+        "url" : "https://pinbaihui2017.oss-cn-beijing.aliyuncs.com/./../goods/1502502885f99687dd719c4e8bc6a39e946c3d9ef7.jpg?x-oss-process=image/resize,m_lfit,h_188,limit_0/auto-orient,0/quality,q_90",
+        "product":"￥800"
+      },
+      {
+        "url" : "https://pinbaihui2017.oss-cn-beijing.aliyuncs.com/./../goods/1492915424f3ccdd27d2000e3f9255a7e3e2c48800.jpg?x-oss-process=image/resize,m_lfit,h_188,limit_0/auto-orient,0/quality,q_90",
+        "product":"￥800"
+      },
+      {
+        "url" : "https://pinbaihui2017.oss-cn-beijing.aliyuncs.com/./../goods/14929098558ef2af04046d4701b3653c91d2e76fed.jpg?x-oss-process=image/resize,m_lfit,h_188,limit_0/auto-orient,0/quality,q_90",
+        "product":"￥800"
+      },
+      {
+        "url" : "https://pinbaihui2017.oss-cn-beijing.aliyuncs.com/./../goods/1492915520f3ccdd27d2000e3f9255a7e3e2c48800.jpg?x-oss-process=image/resize,m_lfit,h_188,limit_0/auto-orient,0/quality,q_90",
+        "product":"￥800"
+      }
+    ]
+  }
+}

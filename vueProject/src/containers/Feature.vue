@@ -1,6 +1,6 @@
 <template>
     <div class="hello">
-        我的
+        <text>特色小菜</text>
     </div>
 </template>
 
@@ -9,7 +9,7 @@
         name: 'hello',
         data() {
             return {
-
+                msg: 'Welcome to Your Weex App'
             }
         }
     }

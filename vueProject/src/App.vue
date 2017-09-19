@@ -1,12 +1,12 @@
 <template>
   <div id="app">
-    <router-view></router-view>
+    <router-view class="routerBox"></router-view>
     <tab class="tab-nav"></tab>
   </div>
 </template>
 
 <script>
-  import Tab from './components/Tab.vue';
+import Tab from './components/tab.vue'
 export default {
   components : {
     Tab,
@@ -17,8 +17,12 @@ export default {
 <style scoped>
   .tab-nav{
     position: fixed;
+    top: 0;
     left: 0;
-    bottom: 0;
-    width: 100%;
+    height: 200px;
+    width: 250px;
+  }
+  .routerBox{
+    margin-left: 250px;
   }
 </style>

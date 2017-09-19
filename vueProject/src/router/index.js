@@ -1,11 +1,14 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 import Home from '../containers/Home.vue'
-import Circle from '../containers/Circle.vue'
-import InfoPage from '../containers/InfoPage.vue'
-import MyPage from '../containers/MyPage.vue'
+import Activity from '../containers/Activity.vue'
+import Discounts from '../containers/Discounts.vue'
+import Feature from '../containers/Feature.vue'
+import Boutique from '../containers/Boutique.vue'
+import Wine from '../containers/Wine.vue'
+import Drinks from '../containers/Drinks.vue'
 
-Vue.use(Router)
+Vue.use(Router);
 
 export default new Router({
   routes: [
@@ -14,16 +17,32 @@ export default new Router({
       component: Home
     },
     {
-      path: '/circle',
-      component: Circle
+      path: '/activity',
+      component: Activity
     },
     {
-      path: '/infoPage',
-      component: InfoPage
+      path: '/discounts',
+      component: Discounts
     },
     {
-      path: '/myPage',
-      component: MyPage
+      path: '/feature',
+      component: Feature
+    },
+    {
+      path: '/boutique',
+      component: Boutique
+    },
+    {
+      path: '/wine',
+      component: Wine
+    },
+    {
+      path: '/drinks',
+      component: Drinks
+    },
+    {
+      path: '*',
+      component: Home
     },
   ]
 })

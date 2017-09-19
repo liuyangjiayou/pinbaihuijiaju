@@ -1,14 +1,15 @@
 <template>
     <div class="hello">
-        信息
+        <text>酒</text>
     </div>
 </template>
+
 <script>
     export default {
         name: 'hello',
         data() {
             return {
-
+                msg: 'Welcome to Your Weex App'
             }
         }
     }
